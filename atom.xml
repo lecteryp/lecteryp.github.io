@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lecteryp.github.io/</id>
     <title>lecteryp</title>
-    <updated>2020-05-17T03:23:21.392Z</updated>
+    <updated>2020-05-17T03:32:10.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lecteryp.github.io/"/>
     <link rel="self" href="https://lecteryp.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://lecteryp.github.io/images/avatar.png</logo>
     <icon>https://lecteryp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, lecteryp</rights>
+    <entry>
+        <title type="html"><![CDATA[ANSYS 安装注意事项（博主自身经验）]]></title>
+        <id>https://lecteryp.github.io/post/ansys-an-zhuang-zhu-yi-shi-xiang-bo-zhu-zi-shen-jing-yan/</id>
+        <link href="https://lecteryp.github.io/post/ansys-an-zhuang-zhu-yi-shi-xiang-bo-zhu-zi-shen-jing-yan/">
+        </link>
+        <updated>2020-05-17T03:24:14.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>检查计算机名称，注意不要出现中文，否则ansys无法成功安装；</li>
+<li>如果使用和谐版本的，注意关闭所有杀毒软件，包括微软自带的defender 软件；</li>
+<li>如果在台式机/笔记本上安装，个人经验：17.0及以上版本可以忽略许可证安装，直接使用和谐文件替换完成安装（服务器版本未知）。</li>
+<li>如果安装成功，开始界面会出现ANSYS文件包，随后可以打开经典apdl界面验证安装成功与否；如果出现文件夹且安装失败，可以重新采用和谐文件替换刷新尝试；如果未见文件夹，表明安装彻底失败，可能是计算机名称出错。</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello， world！]]></title>
         <id>https://lecteryp.github.io/post/hello-world/</id>
