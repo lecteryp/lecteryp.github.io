@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lecteryp.github.io/</id>
     <title>lecteryp</title>
-    <updated>2020-05-17T13:48:32.708Z</updated>
+    <updated>2020-05-17T13:50:42.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lecteryp.github.io/"/>
     <link rel="self" href="https://lecteryp.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://lecteryp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, lecteryp</rights>
     <entry>
-        <title type="html"><![CDATA[论文写作工具]]></title>
+        <title type="html"><![CDATA[论文写作工具（个人推荐）]]></title>
         <id>https://lecteryp.github.io/post/lun-wen-xie-zuo-gong-ju/</id>
         <link href="https://lecteryp.github.io/post/lun-wen-xie-zuo-gong-ju/">
         </link>
@@ -22,7 +22,7 @@ Mathtype7版本比较好用，结合word插件实现公式编辑</li>
 <li>公式识别工具<br>
 Mathpix Snipping Tool，可以截图识别文献中的公式，结合Mathtype软件可以实现公式转换</li>
 <li>参考文献编辑器<br>
-推荐开源文献管理软件Zotero，具有多平台、浏览器识别文献等功能，结合word插件可以快速实现引用</li>
+开源文献管理软件Zotero，具有多平台、浏览器识别文献等功能，结合word插件可以快速实现引用</li>
 <li>科研绘图软件<br>
 Origin-制图方便，快捷<br>
 PPT-简单易用，发挥创意可以高效制图<br>
