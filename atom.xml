@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lecteryp.github.io/</id>
     <title>lecteryp</title>
-    <updated>2020-05-17T03:32:38.868Z</updated>
+    <updated>2020-05-17T12:10:43.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lecteryp.github.io/"/>
     <link rel="self" href="https://lecteryp.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://lecteryp.github.io/images/avatar.png</logo>
     <icon>https://lecteryp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, lecteryp</rights>
+    <entry>
+        <title type="html"><![CDATA[ANSYS命令流编写感悟]]></title>
+        <id>https://lecteryp.github.io/post/ansys-ming-ling-liu-bian-xie-gan-wu/</id>
+        <link href="https://lecteryp.github.io/post/ansys-ming-ling-liu-bian-xie-gan-wu/">
+        </link>
+        <updated>2020-05-17T12:00:33.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>APDL命令流不区分大小写；</li>
+<li>推荐使用ultraedit编辑器，下载apdl模板，可以识别高亮识别相关命令，缓解视觉疲劳；</li>
+<li>个人建议采用APDL+GUI结合的操作方式，高效率的实现计算不拘泥于APDL；</li>
+<li>建议多注释，以免出现位置错误；</li>
+<li>在使用ansys时，注意及时备份、保存，比如在画网格之前备份，方便后期修改；</li>
+<li>变量的书写与定义：越易懂、简单越好，加上注释防止遗忘；</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANSYS命令流]]></title>
+        <id>https://lecteryp.github.io/post/ansys-ming-ling-liu/</id>
+        <link href="https://lecteryp.github.io/post/ansys-ming-ling-liu/">
+        </link>
+        <updated>2020-05-17T12:00:33.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>APDL命令流不区分大小写；</li>
+<li>推荐使用ultraedit编辑器，下载apdl模板，可以识别高亮识别相关命令，缓解视觉疲劳；</li>
+<li>个人建议采用APDL+GUI结合的操作方式，高效率的实现计算不拘泥于APDL；</li>
+<li>建议多注释，以免出现位置错误；</li>
+<li>在使用ansys时，注意及时备份、保存，比如在画网格之前备份，方便后期修改；</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ANSYS 安装注意事项（博主自身经验）]]></title>
         <id>https://lecteryp.github.io/post/ansys-an-zhuang-zhu-yi-shi-xiang-bo-zhu-zi-shen-jing-yan/</id>
